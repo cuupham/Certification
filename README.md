@@ -1,1 +1,1 @@
-Storing Certificates
+Certificate repository
